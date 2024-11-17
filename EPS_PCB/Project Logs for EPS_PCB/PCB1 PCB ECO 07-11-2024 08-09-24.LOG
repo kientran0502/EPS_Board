@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Change Net Name : Old Net Name=BOOT0 New Net Name=NetR11_2
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component R27 RESISTOR SMD
+Added Member To Class: ClassName=Designator Member=Component R29 RESISTOR SMD
+Added Member To Class: ClassName=Designator Member=Component R35 RESISTOR SMD
+Added Member To Class: ClassName=Designator Member=Component R37 RESISTOR SMD
+Added Member To Class: ClassName=Designator Member=Component R40 RESISTOR SMD

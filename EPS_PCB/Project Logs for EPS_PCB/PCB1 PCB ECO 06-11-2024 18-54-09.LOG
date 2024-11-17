@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=TR/SS Pin=B2-2
+Removed Pin From Net: NetName=INTVcc Pin=B2-17
+Removed Pin From Net: NetName=ISP Pin=B2-21
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=BIAS Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=EN Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=ISP Pin=C24-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=INTVcc Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=ISP Pin=L3-2
+Removed Pin From Net: NetName=BIAS Pin=R13-2
+Removed Pin From Net: NetName=SYNC_CHRGR Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=ISP Pin=R20-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=EN Pin=R21-1
+Removed Pin From Net: NetName=TR/SS Pin=R21-2
+Removed Pin From Net: NetName=INTVcc Pin=R22-1
+Removed Pin From Net: NetName=SYNC_CHRGR Pin=R22-2
+Removed Pin From Net: NetName=TR/SS Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Change Component Footprint: Designator=C15 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C16 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C17 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C18 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C19 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C20 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C21 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C22 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C23 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C24 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C25 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C26 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C27 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C28 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=R13 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R14 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R15 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R16 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R17 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R18 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R19 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R20 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R21 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R22 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R23 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R24 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R25 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R26 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES-SM-0805"; UniqueID = "\QHKNSTXV\FKADTUWX" ("\QHKNSTXV\FKADTUWX")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES-SM-0805"; UniqueID = "\QHKNSTXV\DDRUWWUL" ("\QHKNSTXV\DDRUWWUL")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RES-SM-0805"; UniqueID = "\QHKNSTXV\WLSYZLLM" ("\QHKNSTXV\WLSYZLLM")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RES-SM-0805"; UniqueID = "\QHKNSTXV\JXYWDRIK" ("\QHKNSTXV\JXYWDRIK")
+Change component parameters (AddParameter): Name = "Value"; Value = "60.4K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RES-SM-0805"; UniqueID = "\BILTLNQE\ETYTEJWO" ("\BILTLNQE\ETYTEJWO")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RES-SM-0805"; UniqueID = "\BILTLNQE\KUQFAOLP" ("\BILTLNQE\KUQFAOLP")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES-SM-0805"; UniqueID = "\BILTLNQE\YXCFYQEQ" ("\BILTLNQE\YXCFYQEQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES-SM-0805"; UniqueID = "\BILTLNQE\KYYHAKDP" ("\BILTLNQE\KYYHAKDP")
+Change component parameters (AddParameter): Name = "Value"; Value = "60.4K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TR/SS Pin=B1-2
+Added Pin To Net: NetName=INTVcc Pin=B1-17
+Added Pin To Net: NetName=ISP Pin=B1-21
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=BIAS Pin=C17-1
+Added Pin To Net: NetName=ISP Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=INTVcc Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=EN Pin=C23-2
+Added Pin To Net: NetName=BIAS Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=ISP Pin=L2-2
+Added Pin To Net: NetName=BIAS Pin=R13-1
+Added Pin To Net: NetName=ISP Pin=R13-2
+Added Pin To Net: NetName=TR/SS Pin=R14-1
+Added Pin To Net: NetName=SYNC_CHRGR Pin=R15-1
+Added Pin To Net: NetName=INTVcc Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=TR/SS Pin=R17-2
+Added Pin To Net: NetName=BIAS Pin=R20-1
+Added Pin To Net: NetName=EN Pin=R21-2
+Added Pin To Net: NetName=SYNC_CHRGR Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "INTVcc" already exists
+Add Net: Net with name "ISP" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

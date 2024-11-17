@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=BIAS Pin=C24-1
+Removed Pin From Net: NetName=BIAS Pin=R20-1
+Change Component Footprint: Designator=L2 Old Footprint=WE-PD_1280 New Footprint=WE-PD2A_1054
+Change Component Comment : Designator=L2 Old Comment=10uH, 7A New Comment=10uH, 2.98A
+Change component parameters: Designator = "L2" ("L2"); Footprint = "WE-PD_1280"; UniqueID = "\QHKNSTXV\DVCTZGHB" ("\QHKNSTXV\DVCTZGHB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/78477610.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance max."; Value = "0.06Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance typ."; Value = "0.028Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "78477610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2.98A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "80VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "3.24A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "27.52MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "1054"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-78477610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/78477610/5168783?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EwAJjgRoIFJAw4CxMiADsYMBQAcTVh0jc%2BQ0RJBSqujYgVoseQiUjkwVAAQBWgBIGQ7JwAqoL8bADyqACyuOjYAK68uOKEVrr68orKTmqulgB0cLoeAIL%2BgcYhYZExcYnJYo1AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6881-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uH, 2.98A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BIAS Pin=C24-1
+Added Pin To Net: NetName=BIAS Pin=R20-1
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Change Net Name : Old Net Name=ISP New Net Name=NetB1_21
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

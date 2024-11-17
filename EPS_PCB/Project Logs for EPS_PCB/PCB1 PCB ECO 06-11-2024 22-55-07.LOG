@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=ISN Pin=C24-1
+Removed Pin From Net: NetName=ISN Pin=R20-1
+Added Pin To Net: NetName=BIAS Pin=C24-1
+Added Pin To Net: NetName=BIAS Pin=R20-1
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Change Net Name : Old Net Name=ISN New Net Name=BIAS
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C42 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C43 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=R32 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R34 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "INTVcc" already exists
+Add Net: Net with name "ISP" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

@@ -1,0 +1,1167 @@
+Added Component: Designator=*1(TRANS_TPHR8504PL,L1Q)
+Added Component: Designator=*2(TRANS_TPHR8504PL,L1Q)
+Added Component: Designator=B2(QFN50P300X500X80-25N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/LT8611/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT8611EUDD#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT8611EUDD#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8611EUDDTRPBF?qs=hVkxg5c3xu8xYINPiSHe4g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B3(SOT95P280X100-6N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://cds.linear.com/docs/en/datasheet/4412fb.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC4412ES6#TRMPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LTC4412ES6TRMPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC4412ES6TRMPBF?qs=hVkxg5c3xu8vBeVp9%252BXk%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B4(SOT95P280X100-6N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://cds.linear.com/docs/en/datasheet/4412fb.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC4412ES6#TRMPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LTC4412ES6TRMPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC4412ES6TRMPBF?qs=hVkxg5c3xu8vBeVp9%252BXk%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "4u7F"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(TANTALUM SMD C)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.kyocera-avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/ProductDetail/KYOCERA-AVX/TAJC226K016RNJ?qs=zt0pNtghXG%252B8PDA37tw3BQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/TAJC226K016RNJ/1126827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/tu-tantalum-22uf-16v-2312-tajc226k016rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  SN"; Value = "TAJC226K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "581-TAJC226K016R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/KYOCERA-AVX/TAJC226K016RNJ?qs=zt0pNtghXG%252B8PDA37tw3BQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "478-3899-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/TAJC226K016RNJ/1126827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/tu-tantalum-22uf-16v-2312-tajc226k016rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 µF, 16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(TANTALUM SMD C)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.kyocera-avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/ProductDetail/KYOCERA-AVX/TAJC226K016RNJ?qs=zt0pNtghXG%252B8PDA37tw3BQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/TAJC226K016RNJ/1126827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/tu-tantalum-22uf-16v-2312-tajc226k016rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  SN"; Value = "TAJC226K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "581-TAJC226K016R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/KYOCERA-AVX/TAJC226K016RNJ?qs=zt0pNtghXG%252B8PDA37tw3BQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "478-3899-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/TAJC226K016RNJ/1126827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/tu-tantalum-22uf-16v-2312-tajc226k016rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 µF, 16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C33_Designator1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34_Designator1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35_Designator1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36_Designator1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37_Designator1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38_Designator1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C38_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0805_Blue)
+Added Component: Designator=D2(LED_0805_Blue)
+Added Component: Designator=D3(LED_0805_Blue)
+Added Component: Designator=J3(AMASS_XT30PW-M)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(AMASS_XT30PW-M)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(S6B-XH-A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/61300611021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Global Supply"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.we-online.com/en/components/products/PHD_2_54_THT_ANGLED_PIN_HEADER_6130XX11021?sq=61300611021#61300611021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Global Supply"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/61300611021?qs=PhR8RmCirEaego3UjbXiZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300611021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "710-61300611021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/61300611021?qs=PhR8RmCirEaego3UjbXiZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Name 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=L1(0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_mlz2012_en.pdf?ref_disty=mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "4.7 uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MLZ2012N4R7LTD25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Current"; Value = "600 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Resistance"; Value = "180 mOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "+ 125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "- 55 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "130 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "810-MLZ2012N4R7LTD25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/TDK/MLZ2012N4R7LTD25?qs=u4%252BEJ9urDASpSZamVZFpmA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "445-16383-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/MLZ2012N4R7LTD25/4743199"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7 uH, 600 mA"; VariantName = "[No Variations]"
+Added Component: Designator=L3(WE-PD_1280)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "1280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Power Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/spec/74477010?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "15mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "74477010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-PD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "7.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "18MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-74477010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.com/ProductDetail/Wurth-Elektronik/74477010?qs=E%2F%2FhvbtCqpN9eEwYoxClfg%3D%3D&utm_source=mouser-refine-download&utm_medium=file&utm_campaign=74477010&utm_content=Wurth-Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-1223-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74477010/1638628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/cdrh127-cuon-cam-dan-smd-1280-100-10uh-7-8a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uH, 7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12mm"; VariantName = "[No Variations]"
+Added Component: Designator=L4_Designator1(WE-PD2A_4532)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/784773018.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.064Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance typ."; Value = "0.028Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.8uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "2.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "80VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "85MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/784773018?qs=sBf%2Fb4nBSleQ5H1IVXBHSg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6804-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/784773018/5168841?s=N4IgTCBcDaIOwA4Asc4GYAMBGBIC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.8uH, 2.7A"; VariantName = "[No Variations]"
+Added Component: Designator=L4_Designator2(WE-PD2A_4532)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/784773018.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.064Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance typ."; Value = "0.028Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.8uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "2.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "80VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "85MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/784773018?qs=sBf%2Fb4nBSleQ5H1IVXBHSg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6804-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/784773018/5168841?s=N4IgTCBcDaIOwA4Asc4GYAMBGBIC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.8uH, 2.7A"; VariantName = "[No Variations]"
+Added Component: Designator=L5(WE-PD2A_4532)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/784773018.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.064Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance typ."; Value = "0.028Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.8uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "2.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "80VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "85MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/784773018?qs=sBf%2Fb4nBSleQ5H1IVXBHSg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6804-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/784773018/5168841?s=N4IgTCBcDaIOwA4Asc4GYAMBGBIC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.8uH, 2.7A"; VariantName = "[No Variations]"
+Added Component: Designator=P1(62401021722)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/62401021722.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "62401021722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "+ 85 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "- 25 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "62401021722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-62401021722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/62401021722?qs=E2PpAYvlWVt1BydIyo7tzQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A, 125V(AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "1000VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=P2(JP4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT95P260X140-3N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT95P260X140-3N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400-5.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AO3400-5.8A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400-5.8A/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "0.025R"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "60.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "309k"; VariantName = "[No Variations]"
+Added Component: Designator=R27_Designator1(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R27_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R28_Designator1(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R28_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R29_Designator1(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R29_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R30_Designator1(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "180k/110k"; VariantName = "[No Variations]"
+Added Component: Designator=R30_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "180k/110k"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "180k/110k"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(WS-TASV_L6W6H5_4301x20508x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/spec/430152050826?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TASV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "260g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/430152050826?qs=wr8lucFkNMXbUWez0eOAow%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6993-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430152050826/5208996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/nut-nhan-6x6mm-cao-5mm-4-chan-smd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(WS-TASV_L6W6H5_4301x20508x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/spec/430152050826?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TASV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "260g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/430152050826?qs=wr8lucFkNMXbUWez0eOAow%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6993-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430152050826/5208996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/nut-nhan-6x6mm-cao-5mm-4-chan-smd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(WS-TASV_L6W6H5_4301x20508x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/spec/430152050826?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TASV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "260g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/430152050826?qs=wr8lucFkNMXbUWez0eOAow%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6993-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430152050826/5208996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/nut-nhan-6x6mm-cao-5mm-4-chan-smd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430152050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP)
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Component: Designator=U1(STM32F405RGT6)
+Added Component: Designator=U2_Designator1(IC_TPS63020DSJT)
+Add component (AddParameter): Name = "Arrow_Asia-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Asia&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS63020DSJT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSON-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS63020DSJT/Texas%20Instruments/view-part/225125/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2_Designator2(IC_TPS63020DSJT)
+Add component (AddParameter): Name = "Arrow_Asia-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Asia&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS63020DSJT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSON-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS63020DSJT/Texas%20Instruments/view-part/225125/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(IC_TPS63020DSJT)
+Add component (AddParameter): Name = "Arrow_Asia-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Asia&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS63020DSJT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSON-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS63020DSJT/Texas%20Instruments/view-part/225125/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(MODULE_ADA3708)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ADA3708/Adafruit+Industries+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADA3708"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADA3708/Adafruit+Industries+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(WE-XTAL_HC49/4HSMX)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.com/pbs/datasheet/830003151.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "8MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "+/-50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "+/-30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "16pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "830003151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "+ 60 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "- 10 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HC49/4HSMX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-830003151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.com/ProductDetail/Wurth-Elektronik/830003151?qs=2WXlatMagcHisY7XHApyYg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-830003151TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/830003151/13979296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/thach-anh-8mhz-2-chan-smd-hc49-s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_STLINK Pin=P1-7
+Added Pin To Net: NetName=3.3V_STLINK Pin=P1-8
+Added Net: Name=3.3V_STLINK
+Added Pin To Net: NetName=3.3VDDA Pin=C7-2
+Added Pin To Net: NetName=3.3VDDA Pin=L1-2
+Added Pin To Net: NetName=3.3VDDA Pin=U1-13
+Added Net: Name=3.3VDDA
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=3.3V Pin=C39-1
+Added Pin To Net: NetName=3.3V Pin=C40-1
+Added Pin To Net: NetName=3.3V Pin=C41-1
+Added Pin To Net: NetName=3.3V Pin=D2-1
+Added Pin To Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=3.3V Pin=P2-2
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=R7-2
+Added Pin To Net: NetName=3.3V Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R32-2
+Added Pin To Net: NetName=3.3V Pin=TP3-TP1
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=3.3V Pin=U1-19
+Added Pin To Net: NetName=3.3V Pin=U1-32
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Added Pin To Net: NetName=3.3V Pin=U3-4
+Added Pin To Net: NetName=3.3V Pin=U3-5
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V_STLINK Pin=P1-9
+Added Pin To Net: NetName=5V_STLINK Pin=P1-10
+Added Net: Name=5V_STLINK
+Added Pin To Net: NetName=5V Pin=C33_Designator1-1
+Added Pin To Net: NetName=5V Pin=C34_Designator1-1
+Added Pin To Net: NetName=5V Pin=C35_Designator1-1
+Added Pin To Net: NetName=5V Pin=D3-1
+Added Pin To Net: NetName=5V Pin=R28_Designator1-2
+Added Pin To Net: NetName=5V Pin=TP4-TP1
+Added Pin To Net: NetName=5V Pin=U2_Designator1-4
+Added Pin To Net: NetName=5V Pin=U2_Designator1-5
+Added Pin To Net: NetName=5V Pin=U4-2
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Net: Name=5V
+Added Pin To Net: NetName=BIAS Pin=*2-5
+Added Pin To Net: NetName=BIAS Pin=*2-6
+Added Pin To Net: NetName=BIAS Pin=*2-7
+Added Pin To Net: NetName=BIAS Pin=*2-8
+Added Pin To Net: NetName=BIAS Pin=B2-18
+Added Pin To Net: NetName=BIAS Pin=B2-22
+Added Pin To Net: NetName=BIAS Pin=B4-1
+Added Pin To Net: NetName=BIAS Pin=C24-2
+Added Pin To Net: NetName=BIAS Pin=C25-2
+Added Pin To Net: NetName=BIAS Pin=C26-2
+Added Pin To Net: NetName=BIAS Pin=C27-2
+Added Pin To Net: NetName=BIAS Pin=C32-2
+Added Pin To Net: NetName=BIAS Pin=J4-P
+Added Pin To Net: NetName=BIAS Pin=R2-2
+Added Pin To Net: NetName=BIAS Pin=R20-2
+Added Pin To Net: NetName=BIAS Pin=R23-2
+Added Pin To Net: NetName=BIAS Pin=TP2-TP1
+Added Net: Name=BIAS
+Added Pin To Net: NetName=BOOT0 Pin=R12-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BST Pin=B2-16
+Added Pin To Net: NetName=BST Pin=C22-2
+Added Net: Name=BST
+Added Pin To Net: NetName=C_LED3.3V Pin=D2-2
+Added Pin To Net: NetName=C_LED3.3V Pin=R36-1
+Added Net: Name=C_LED3.3V
+Added Pin To Net: NetName=C_LED5V Pin=D3-2
+Added Pin To Net: NetName=C_LED5V Pin=R37-1
+Added Net: Name=C_LED5V
+Added Pin To Net: NetName=C_LED_USR Pin=D1-2
+Added Pin To Net: NetName=C_LED_USR Pin=R35-1
+Added Net: Name=C_LED_USR
+Added Pin To Net: NetName=EN_5V_3.3V Pin=J5-1
+Added Pin To Net: NetName=EN_5V_3.3V Pin=R29_Designator1-2
+Added Pin To Net: NetName=EN_5V_3.3V Pin=R33-2
+Added Pin To Net: NetName=EN_5V_3.3V Pin=U2_Designator1-12
+Added Pin To Net: NetName=EN_5V_3.3V Pin=U3-12
+Added Net: Name=EN_5V_3.3V
+Added Pin To Net: NetName=EN Pin=B2-4
+Added Pin To Net: NetName=EN Pin=B2-5
+Added Pin To Net: NetName=EN Pin=B2-6
+Added Pin To Net: NetName=EN Pin=C23-1
+Added Pin To Net: NetName=EN Pin=J3-P
+Added Pin To Net: NetName=EN Pin=R21-1
+Added Net: Name=EN
+Added Pin To Net: NetName=FB_TPS_Designator1 Pin=R28_Designator1-1
+Added Pin To Net: NetName=FB_TPS_Designator1 Pin=R30_Designator1-2
+Added Pin To Net: NetName=FB_TPS_Designator1 Pin=U2_Designator1-3
+Added Net: Name=FB_TPS_Designator1
+Added Pin To Net: NetName=FB_TPS_Designator2 Pin=R28_Designator2-1
+Added Pin To Net: NetName=FB_TPS_Designator2 Pin=R30_Designator2-2
+Added Pin To Net: NetName=FB_TPS_Designator2 Pin=U2_Designator2-3
+Added Net: Name=FB_TPS_Designator2
+Added Pin To Net: NetName=FB_TPS Pin=R32-1
+Added Pin To Net: NetName=FB_TPS Pin=R34-2
+Added Pin To Net: NetName=FB_TPS Pin=U3-3
+Added Net: Name=FB_TPS
+Added Pin To Net: NetName=FB Pin=B2-20
+Added Pin To Net: NetName=FB Pin=C25-1
+Added Pin To Net: NetName=FB Pin=R23-1
+Added Pin To Net: NetName=FB Pin=R26-2
+Added Net: Name=FB
+Added Pin To Net: NetName=G1 Pin=Q1-1
+Added Pin To Net: NetName=G1 Pin=R38-2
+Added Net: Name=G1
+Added Pin To Net: NetName=G2 Pin=Q2-1
+Added Pin To Net: NetName=G2 Pin=R40-2
+Added Net: Name=G2
+Added Pin To Net: NetName=G_OR Pin=*2-4
+Added Pin To Net: NetName=G_OR Pin=B4-5
+Added Net: Name=G_OR
+Add Net: Net with name "G_OR" already exists
+Added Pin To Net: NetName=GND Pin=B2-7
+Added Pin To Net: NetName=GND Pin=B2-8
+Added Pin To Net: NetName=GND Pin=B2-9
+Added Pin To Net: NetName=GND Pin=B2-10
+Added Pin To Net: NetName=GND Pin=B2-11
+Added Pin To Net: NetName=GND Pin=B2-12
+Added Pin To Net: NetName=GND Pin=B2-25
+Added Pin To Net: NetName=GND Pin=B3-2
+Added Pin To Net: NetName=GND Pin=B3-3
+Added Pin To Net: NetName=GND Pin=B4-2
+Added Pin To Net: NetName=GND Pin=B4-3
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33_Designator1-2
+Added Pin To Net: NetName=GND Pin=C33_Designator2-2
+Added Pin To Net: NetName=GND Pin=C34_Designator1-2
+Added Pin To Net: NetName=GND Pin=C34_Designator2-2
+Added Pin To Net: NetName=GND Pin=C35_Designator1-2
+Added Pin To Net: NetName=GND Pin=C35_Designator2-2
+Added Pin To Net: NetName=GND Pin=C36_Designator1-1
+Added Pin To Net: NetName=GND Pin=C36_Designator2-1
+Added Pin To Net: NetName=GND Pin=C37_Designator1-1
+Added Pin To Net: NetName=GND Pin=C37_Designator2-1
+Added Pin To Net: NetName=GND Pin=C38_Designator1-1
+Added Pin To Net: NetName=GND Pin=C38_Designator2-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=J3-N
+Added Pin To Net: NetName=GND Pin=J4-N
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R30_Designator1-1
+Added Pin To Net: NetName=GND Pin=R30_Designator2-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Pin To Net: NetName=GND Pin=SW1-A1
+Added Pin To Net: NetName=GND Pin=SW1-A2
+Added Pin To Net: NetName=GND Pin=SW2-A1
+Added Pin To Net: NetName=GND Pin=SW2-A2
+Added Pin To Net: NetName=GND Pin=SW3-A1
+Added Pin To Net: NetName=GND Pin=SW3-A2
+Added Pin To Net: NetName=GND Pin=U2_Designator1-2
+Added Pin To Net: NetName=GND Pin=U2_Designator1-15
+Added Pin To Net: NetName=GND Pin=U2_Designator2-2
+Added Pin To Net: NetName=GND Pin=U2_Designator2-15
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=GND Pin=U4-30
+Added Pin To Net: NetName=GND Pin=U4-34
+Added Pin To Net: NetName=GND Pin=U4-39
+Added Net: Name=GND
+Added Pin To Net: NetName=IMON1 Pin=U1-9
+Added Net: Name=IMON1
+Added Pin To Net: NetName=IMON2 Pin=B2-23
+Added Pin To Net: NetName=IMON2 Pin=U1-10
+Added Net: Name=IMON2
+Added Pin To Net: NetName=INTVcc Pin=B2-17
+Added Pin To Net: NetName=INTVcc Pin=C28-1
+Added Pin To Net: NetName=INTVcc Pin=R22-1
+Added Net: Name=INTVcc
+Added Pin To Net: NetName=ISP Pin=B2-21
+Added Pin To Net: NetName=ISP Pin=C24-1
+Added Pin To Net: NetName=ISP Pin=L3-2
+Added Pin To Net: NetName=ISP Pin=R20-1
+Added Net: Name=ISP
+Added Pin To Net: NetName=MODE_3.3V Pin=R31-2
+Added Pin To Net: NetName=MODE_3.3V Pin=U3-13
+Added Net: Name=MODE_3.3V
+Added Pin To Net: NetName=MODE_5V Pin=R27_Designator1-2
+Added Pin To Net: NetName=MODE_5V Pin=U1-28
+Added Pin To Net: NetName=MODE_5V Pin=U2_Designator1-13
+Added Net: Name=MODE_5V
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C4-1
+Added Pin To Net: NetName=NetC1_1 Pin=C5-1
+Added Pin To Net: NetName=NetC1_1 Pin=C6-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-12
+Added Pin To Net: NetName=NetC1_1 Pin=U1-18
+Added Pin To Net: NetName=NetC1_1 Pin=U1-63
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=C12-1
+Added Pin To Net: NetName=NetC11_1 Pin=C13-1
+Added Pin To Net: NetName=NetC11_1 Pin=C14-1
+Added Pin To Net: NetName=NetC11_1 Pin=R12-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=C33_Designator2-1
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=C34_Designator2-1
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=C35_Designator2-1
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=R28_Designator2-2
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=U2_Designator2-4
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=U2_Designator2-5
+Added Net: Name=NetC33_Designator2_1
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=C36_Designator2-2
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=C37_Designator2-2
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=U2_Designator2-10
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=U2_Designator2-11
+Added Net: Name=NetC36_Designator2_2
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=Q1-2
+Added Pin To Net: NetName=NetJ5_6 Pin=Q2-2
+Added Pin To Net: NetName=NetJ5_6 Pin=R39-2
+Added Pin To Net: NetName=NetJ5_6 Pin=R41-2
+Added Net: Name=NetJ5_6
+Added Pin To Net: NetName=NetL4_Designator1_1 Pin=L4_Designator1-1
+Added Pin To Net: NetName=NetL4_Designator1_1 Pin=U2_Designator1-8
+Added Pin To Net: NetName=NetL4_Designator1_1 Pin=U2_Designator1-9
+Added Net: Name=NetL4_Designator1_1
+Added Pin To Net: NetName=NetL4_Designator1_2 Pin=L4_Designator1-2
+Added Pin To Net: NetName=NetL4_Designator1_2 Pin=U2_Designator1-6
+Added Pin To Net: NetName=NetL4_Designator1_2 Pin=U2_Designator1-7
+Added Net: Name=NetL4_Designator1_2
+Added Pin To Net: NetName=NetL4_Designator2_1 Pin=L4_Designator2-1
+Added Pin To Net: NetName=NetL4_Designator2_1 Pin=U2_Designator2-8
+Added Pin To Net: NetName=NetL4_Designator2_1 Pin=U2_Designator2-9
+Added Net: Name=NetL4_Designator2_1
+Added Pin To Net: NetName=NetL4_Designator2_2 Pin=L4_Designator2-2
+Added Pin To Net: NetName=NetL4_Designator2_2 Pin=U2_Designator2-6
+Added Pin To Net: NetName=NetL4_Designator2_2 Pin=U2_Designator2-7
+Added Net: Name=NetL4_Designator2_2
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=U3-8
+Added Pin To Net: NetName=NetL5_1 Pin=U3-9
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=U3-6
+Added Pin To Net: NetName=NetL5_2 Pin=U3-7
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=U1-29
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=U1-30
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetR27_Designator2_2 Pin=R27_Designator2-2
+Added Pin To Net: NetName=NetR27_Designator2_2 Pin=U2_Designator2-13
+Added Net: Name=NetR27_Designator2_2
+Added Pin To Net: NetName=NetR29_Designator2_2 Pin=R29_Designator2-2
+Added Pin To Net: NetName=NetR29_Designator2_2 Pin=U2_Designator2-12
+Added Net: Name=NetR29_Designator2_2
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=R39-1
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R41-1
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetU1_24 Pin=U1-24
+Added Net: Name=NetU1_24
+Added Pin To Net: NetName=NetU1_25 Pin=U1-25
+Added Net: Name=NetU1_25
+Added Pin To Net: NetName=NRST_DB Pin=C8-2
+Added Pin To Net: NetName=NRST_DB Pin=R6-1
+Added Pin To Net: NetName=NRST_DB Pin=R9-1
+Added Net: Name=NRST_DB
+Added Pin To Net: NetName=NRST Pin=P1-1
+Added Pin To Net: NetName=NRST Pin=R9-2
+Added Pin To Net: NetName=NRST Pin=SW1-B1
+Added Pin To Net: NetName=NRST Pin=SW1-B2
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC_IN Pin=C12-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_IN Pin=Y1-2
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C11-2
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-1
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=PA0 Pin=U1-14
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA3 Pin=U1-17
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=U1-20
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=U1-21
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=U1-22
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=U1-23
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=U1-41
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=U1-42
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=U1-43
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=U1-44
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=U1-45
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=U1-50
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=U1-26
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB3 Pin=U1-55
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=U1-56
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=U1-57
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB8 Pin=U1-61
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=U1-62
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB12 Pin=U1-33
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB15 Pin=U1-36
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC0 Pin=U1-8
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC6 Pin=U1-37
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=U1-38
+Added Net: Name=PC7
+Added Pin To Net: NetName=PC8 Pin=U1-39
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=U1-40
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC10 Pin=U1-51
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11 Pin=U1-52
+Added Net: Name=PC11
+Added Pin To Net: NetName=PC12 Pin=U1-53
+Added Net: Name=PC12
+Added Pin To Net: NetName=PC15 Pin=U1-4
+Added Net: Name=PC15
+Added Pin To Net: NetName=PG1 Pin=U1-58
+Added Pin To Net: NetName=PG1 Pin=U2_Designator2-14
+Added Net: Name=PG1
+Added Pin To Net: NetName=PG_3.3V Pin=U3-14
+Added Net: Name=PG_3.3V
+Added Pin To Net: NetName=PG_5V Pin=U1-27
+Added Pin To Net: NetName=PG_5V Pin=U2_Designator1-14
+Added Net: Name=PG_5V
+Added Pin To Net: NetName=PG Pin=B2-19
+Added Pin To Net: NetName=PG Pin=U1-59
+Added Net: Name=PG
+Added Pin To Net: NetName=POWER_O1 Pin=J5-5
+Added Pin To Net: NetName=POWER_O1 Pin=Q1-3
+Added Net: Name=POWER_O1
+Added Pin To Net: NetName=POWER_O2 Pin=J5-3
+Added Pin To Net: NetName=POWER_O2 Pin=Q2-3
+Added Net: Name=POWER_O2
+Added Pin To Net: NetName=POWER_sw1 Pin=U1-35
+Added Net: Name=POWER_sw1
+Added Pin To Net: NetName=POWER_sw2 Pin=U1-34
+Added Net: Name=POWER_sw2
+Added Pin To Net: NetName=RT Pin=B2-3
+Added Pin To Net: NetName=RT Pin=R25-2
+Added Net: Name=RT
+Added Pin To Net: NetName=SWCLK Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Pin To Net: NetName=SWDIO Pin=U1-46
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SW Pin=B2-13
+Added Pin To Net: NetName=SW Pin=B2-14
+Added Pin To Net: NetName=SW Pin=B2-15
+Added Pin To Net: NetName=SW Pin=C22-1
+Added Pin To Net: NetName=SW Pin=L3-1
+Added Net: Name=SW
+Added Pin To Net: NetName=SYNC_CHRGR Pin=B2-1
+Added Pin To Net: NetName=SYNC_CHRGR Pin=R22-2
+Added Pin To Net: NetName=SYNC_CHRGR Pin=U1-11
+Added Net: Name=SYNC_CHRGR
+Added Pin To Net: NetName=TR/SS Pin=B2-2
+Added Pin To Net: NetName=TR/SS Pin=R21-2
+Added Pin To Net: NetName=TR/SS Pin=R24-1
+Added Net: Name=TR/SS
+Added Pin To Net: NetName=USER_BUTTON_0 Pin=R10-2
+Added Pin To Net: NetName=USER_BUTTON_0 Pin=SW2-B1
+Added Pin To Net: NetName=USER_BUTTON_0 Pin=SW2-B2
+Added Pin To Net: NetName=USER_BUTTON_0 Pin=U1-2
+Added Net: Name=USER_BUTTON_0
+Added Pin To Net: NetName=USER_BUTTON_1 Pin=R11-2
+Added Pin To Net: NetName=USER_BUTTON_1 Pin=SW3-B1
+Added Pin To Net: NetName=USER_BUTTON_1 Pin=SW3-B2
+Added Pin To Net: NetName=USER_BUTTON_1 Pin=U1-3
+Added Net: Name=USER_BUTTON_1
+Added Pin To Net: NetName=USER_LED Pin=D1-1
+Added Pin To Net: NetName=USER_LED Pin=U1-54
+Added Net: Name=USER_LED
+Added Pin To Net: NetName=USRB0_NDB Pin=C9-2
+Added Pin To Net: NetName=USRB0_NDB Pin=R7-1
+Added Pin To Net: NetName=USRB0_NDB Pin=R10-1
+Added Net: Name=USRB0_NDB
+Added Pin To Net: NetName=USRB1_NDB Pin=C10-2
+Added Pin To Net: NetName=USRB1_NDB Pin=R8-1
+Added Pin To Net: NetName=USRB1_NDB Pin=R11-1
+Added Net: Name=USRB1_NDB
+Added Pin To Net: NetName=VBAT1_DIV Pin=R1-1
+Added Pin To Net: NetName=VBAT1_DIV Pin=R3-2
+Added Pin To Net: NetName=VBAT1_DIV Pin=U1-15
+Added Net: Name=VBAT1_DIV
+Added Pin To Net: NetName=VBAT1 Pin=*1-5
+Added Pin To Net: NetName=VBAT1 Pin=*1-6
+Added Pin To Net: NetName=VBAT1 Pin=*1-7
+Added Pin To Net: NetName=VBAT1 Pin=*1-8
+Added Pin To Net: NetName=VBAT1 Pin=B3-1
+Added Pin To Net: NetName=VBAT1 Pin=C30-2
+Added Pin To Net: NetName=VBAT1 Pin=R1-2
+Added Net: Name=VBAT1
+Added Pin To Net: NetName=VBAT2_DIV Pin=R2-1
+Added Pin To Net: NetName=VBAT2_DIV Pin=R4-2
+Added Pin To Net: NetName=VBAT2_DIV Pin=U1-16
+Added Net: Name=VBAT2_DIV
+Added Pin To Net: NetName=VBUS Pin=*1-1
+Added Pin To Net: NetName=VBUS Pin=*1-2
+Added Pin To Net: NetName=VBUS Pin=*1-3
+Added Pin To Net: NetName=VBUS Pin=*2-1
+Added Pin To Net: NetName=VBUS Pin=*2-2
+Added Pin To Net: NetName=VBUS Pin=*2-3
+Added Pin To Net: NetName=VBUS Pin=B3-6
+Added Pin To Net: NetName=VBUS Pin=B4-6
+Added Pin To Net: NetName=VBUS Pin=C29-2
+Added Pin To Net: NetName=VBUS Pin=C31-2
+Added Pin To Net: NetName=VBUS Pin=C36_Designator1-2
+Added Pin To Net: NetName=VBUS Pin=C37_Designator1-2
+Added Pin To Net: NetName=VBUS Pin=C42-2
+Added Pin To Net: NetName=VBUS Pin=C43-2
+Added Pin To Net: NetName=VBUS Pin=J5-2
+Added Pin To Net: NetName=VBUS Pin=J5-4
+Added Pin To Net: NetName=VBUS Pin=U2_Designator1-10
+Added Pin To Net: NetName=VBUS Pin=U2_Designator1-11
+Added Pin To Net: NetName=VBUS Pin=U3-10
+Added Pin To Net: NetName=VBUS Pin=U3-11
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCAP_1 Pin=C14-2
+Added Pin To Net: NetName=VCAP_1 Pin=U1-31
+Added Net: Name=VCAP_1
+Added Pin To Net: NetName=VCAP_2 Pin=C13-2
+Added Pin To Net: NetName=VCAP_2 Pin=U1-47
+Added Net: Name=VCAP_2
+Added Pin To Net: NetName=VINA_TPS_Designator1 Pin=C38_Designator1-2
+Added Pin To Net: NetName=VINA_TPS_Designator1 Pin=R27_Designator1-1
+Added Pin To Net: NetName=VINA_TPS_Designator1 Pin=R29_Designator1-1
+Added Pin To Net: NetName=VINA_TPS_Designator1 Pin=U2_Designator1-1
+Added Net: Name=VINA_TPS_Designator1
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=C38_Designator2-2
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=R27_Designator2-1
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=R29_Designator2-1
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=U2_Designator2-1
+Added Net: Name=VINA_TPS_Designator2
+Added Pin To Net: NetName=VINA_TPS Pin=C44-2
+Added Pin To Net: NetName=VINA_TPS Pin=R31-1
+Added Pin To Net: NetName=VINA_TPS Pin=R33-1
+Added Pin To Net: NetName=VINA_TPS Pin=U3-1
+Added Net: Name=VINA_TPS
+Added Class: Name=Designator1
+Added Class: Name=Designator2
+Added Class: Name=Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Class: Name=Buck_Boost_Converter_A
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=5V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=5V Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=5V Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Change Component Footprint: Designator=C33 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C34 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C35 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C36 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C37 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C38 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=R27 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R28 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R29 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R30 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=5V Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=5V Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=5V Pin=C35-2
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "INTVcc" already exists
+Add Net: Net with name "ISP" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

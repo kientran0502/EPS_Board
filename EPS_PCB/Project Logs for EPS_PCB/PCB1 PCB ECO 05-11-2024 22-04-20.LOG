@@ -1,0 +1,117 @@
+Added Component: Designator=C33_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38_Designator2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=L4_Designator2(WE-PD2A_4532)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/784773018.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.064Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance typ."; Value = "0.028Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.8uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "2.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "80VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "85MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-784773018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/784773018?qs=sBf%2Fb4nBSleQ5H1IVXBHSg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-6804-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/784773018/5168841?s=N4IgTCBcDaIOwA4Asc4GYAMBGBIC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.8uH, 2.7A"; VariantName = "[No Variations]"
+Added Component: Designator=R27_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R28_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R29_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R30_Designator2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "180k/110k"; VariantName = "[No Variations]"
+Added Component: Designator=U2_Designator2(IC_TPS63020DSJT)
+Add component (AddParameter): Name = "Arrow_Asia-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Asia&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS63020DSJT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSON-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS63020DSJT/Texas%20Instruments/view-part/225125/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=225125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=C33_Designator2-1
+Added Pin To Net: NetName=GND Pin=C33_Designator2-2
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=C34_Designator2-1
+Added Pin To Net: NetName=GND Pin=C34_Designator2-2
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=C35_Designator2-1
+Added Pin To Net: NetName=GND Pin=C35_Designator2-2
+Added Pin To Net: NetName=GND Pin=C36_Designator2-1
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=C36_Designator2-2
+Added Pin To Net: NetName=GND Pin=C37_Designator2-1
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=C37_Designator2-2
+Added Pin To Net: NetName=GND Pin=C38_Designator2-1
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=C38_Designator2-2
+Added Pin To Net: NetName=NetL4_Designator2_1 Pin=L4_Designator2-1
+Added Pin To Net: NetName=NetL4_Designator2_2 Pin=L4_Designator2-2
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=R27_Designator2-1
+Added Pin To Net: NetName=NetR27_Designator2_2 Pin=R27_Designator2-2
+Added Pin To Net: NetName=FB_TPS_Designator2 Pin=R28_Designator2-1
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=R28_Designator2-2
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=R29_Designator2-1
+Added Pin To Net: NetName=NetR29_Designator2_2 Pin=R29_Designator2-2
+Added Pin To Net: NetName=GND Pin=R30_Designator2-1
+Added Pin To Net: NetName=FB_TPS_Designator2 Pin=R30_Designator2-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Added Pin To Net: NetName=VINA_TPS_Designator2 Pin=U2_Designator2-1
+Added Pin To Net: NetName=GND Pin=U2_Designator2-2
+Added Pin To Net: NetName=FB_TPS_Designator2 Pin=U2_Designator2-3
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=U2_Designator2-4
+Added Pin To Net: NetName=NetC33_Designator2_1 Pin=U2_Designator2-5
+Added Pin To Net: NetName=NetL4_Designator2_2 Pin=U2_Designator2-6
+Added Pin To Net: NetName=NetL4_Designator2_2 Pin=U2_Designator2-7
+Added Pin To Net: NetName=NetL4_Designator2_1 Pin=U2_Designator2-8
+Added Pin To Net: NetName=NetL4_Designator2_1 Pin=U2_Designator2-9
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=U2_Designator2-10
+Added Pin To Net: NetName=NetC36_Designator2_2 Pin=U2_Designator2-11
+Added Pin To Net: NetName=NetR29_Designator2_2 Pin=U2_Designator2-12
+Added Pin To Net: NetName=NetR27_Designator2_2 Pin=U2_Designator2-13
+Added Pin To Net: NetName=PG1 Pin=U2_Designator2-14
+Added Pin To Net: NetName=GND Pin=U2_Designator2-15
+Add Net: Net with name "G_OR" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator2 Member=Component C33_Designator2 (C33) Cap Non-Pol SMD
+Added Member To Class: ClassName=Designator2 Member=Component C34_Designator2 (C34) Cap Non-Pol SMD
+Added Member To Class: ClassName=Designator2 Member=Component C35_Designator2 (C35) Cap Non-Pol SMD
+Added Member To Class: ClassName=Designator2 Member=Component C36_Designator2 (C36) Cap Non-Pol SMD
+Added Member To Class: ClassName=Designator2 Member=Component C37_Designator2 (C37) Cap Non-Pol SMD
+Added Member To Class: ClassName=Designator2 Member=Component C38_Designator2 (C38) Cap Non-Pol SMD
+Added Member To Class: ClassName=Designator2 Member=Component L4_Designator2 (L4) 1.8uH, 2.7A
+Added Member To Class: ClassName=Designator2 Member=Component R27_Designator2 (R27) RESISTOR SMD
+Added Member To Class: ClassName=Designator2 Member=Component R28_Designator2 (R28) RESISTOR SMD
+Added Member To Class: ClassName=Designator2 Member=Component R29_Designator2 (R29) RESISTOR SMD
+Added Member To Class: ClassName=Designator2 Member=Component R30_Designator2 (R30) RESISTOR SMD
+Added Member To Class: ClassName=Designator2 Member=Component U2_Designator2 (U2) TPS63020DSJT

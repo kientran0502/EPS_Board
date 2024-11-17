@@ -1,0 +1,63 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C5 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C6 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C11 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C12 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C13 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C14 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP-SM-0805"; UniqueID = "\LIZSWEYB\SYHCYHXR" ("\LIZSWEYB\SYHCYHXR")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR39_1
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=VBAT2 Pin=B1-18
+Added Pin To Net: NetName=VBAT2 Pin=B1-22
+Added Pin To Net: NetName=VBAT2 Pin=C18-2
+Added Pin To Net: NetName=VBAT2 Pin=R16-2
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Change Net Name : Old Net Name=VBAT2 New Net Name=BIAS
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "G_OR" already exists
+Added Pin To Net: NetName=NetB1_20 Pin=B1-20
+Added Pin To Net: NetName=NetB1_20 Pin=C18-1
+Added Pin To Net: NetName=NetB1_20 Pin=R16-1
+Added Pin To Net: NetName=NetB1_20 Pin=R19-2
+Added Net: Name=NetB1_20
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

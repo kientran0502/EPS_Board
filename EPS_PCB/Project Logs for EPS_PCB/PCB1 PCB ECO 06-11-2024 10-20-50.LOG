@@ -1,0 +1,181 @@
+Removed Pin From Net: NetName=BIAS Pin=B2-18
+Removed Pin From Net: NetName=PG Pin=B2-19
+Removed Pin From Net: NetName=BIAS Pin=B2-22
+Removed Pin From Net: NetName=IMON2 Pin=B2-23
+Removed Pin From Net: NetName=BIAS Pin=C24-2
+Removed Pin From Net: NetName=BIAS Pin=C25-2
+Removed Pin From Net: NetName=BIAS Pin=C26-2
+Removed Pin From Net: NetName=BIAS Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C33_Designator2-2
+Removed Pin From Net: NetName=GND Pin=C34_Designator2-2
+Removed Pin From Net: NetName=GND Pin=C35_Designator2-2
+Removed Pin From Net: NetName=GND Pin=C36_Designator2-1
+Removed Pin From Net: NetName=GND Pin=C37_Designator2-1
+Removed Pin From Net: NetName=GND Pin=C38_Designator2-1
+Removed Pin From Net: NetName=BIAS Pin=J4-P
+Removed Pin From Net: NetName=BIAS Pin=R20-2
+Removed Pin From Net: NetName=BIAS Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R30_Designator2-1
+Removed Pin From Net: NetName=BIAS Pin=TP2-TP1
+Removed Pin From Net: NetName=GND Pin=U2_Designator2-2
+Removed Pin From Net: NetName=GND Pin=U2_Designator2-15
+Change Component Designator: OldDesignator=C33_Designator1 NewDesignator=C33
+Change Component Designator: OldDesignator=C34_Designator1 NewDesignator=C34
+Change Component Designator: OldDesignator=C35_Designator1 NewDesignator=C35
+Change Component Designator: OldDesignator=C36_Designator1 NewDesignator=C36
+Change Component Designator: OldDesignator=C37_Designator1 NewDesignator=C37
+Change Component Designator: OldDesignator=C38_Designator1 NewDesignator=C38
+Change Component Designator: OldDesignator=L4_Designator1 NewDesignator=L4
+Change Component Designator: OldDesignator=R27_Designator1 NewDesignator=R27
+Change Component Designator: OldDesignator=R28_Designator1 NewDesignator=R28
+Change Component Designator: OldDesignator=R29_Designator1 NewDesignator=R29
+Change Component Designator: OldDesignator=R30_Designator1 NewDesignator=R30
+Change Component Designator: OldDesignator=U2_Designator1 NewDesignator=U2
+Added Component: Designator=B1(QFN50P300X500X80-25N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/LT8611/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT8611EUDD#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT8611EUDD#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8611EUDDTRPBF?qs=hVkxg5c3xu8xYINPiSHe4g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(AMASS_XT30PW-M)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(AMASS_XT30PW-M)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(WE-PD_1280)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "1280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Power Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/spec/74477010?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "15mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "74477010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-PD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "7.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "18MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "710-74477010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.com/ProductDetail/Wurth-Elektronik/74477010?qs=E%2F%2FhvbtCqpN9eEwYoxClfg%3D%3D&utm_source=mouser-refine-download&utm_medium=file&utm_campaign=74477010&utm_content=Wurth-Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part Number"; Value = "732-1223-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74477010/1638628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/cdrh127-cuon-cam-dan-smd-1280-100-10uh-7-8a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uH, 7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12mm"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "0.025R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "60.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "309k"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP)
+Added Pin To Net: NetName=SYNC_CHRGR Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-7
+Added Pin To Net: NetName=GND Pin=B1-8
+Added Pin To Net: NetName=GND Pin=B1-9
+Added Pin To Net: NetName=GND Pin=B1-10
+Added Pin To Net: NetName=GND Pin=B1-11
+Added Pin To Net: NetName=GND Pin=B1-12
+Added Pin To Net: NetName=BIAS Pin=B1-18
+Added Pin To Net: NetName=PG Pin=B1-19
+Added Pin To Net: NetName=BIAS Pin=B1-22
+Added Pin To Net: NetName=IMON2 Pin=B1-23
+Added Pin To Net: NetName=GND Pin=B1-25
+Added Pin To Net: NetName=VBAT1 Pin=B2-18
+Added Pin To Net: NetName=VBAT1 Pin=B2-22
+Added Pin To Net: NetName=IMON1 Pin=B2-23
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=BIAS Pin=C17-2
+Added Pin To Net: NetName=BIAS Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=BIAS Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=BIAS Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=VBAT1 Pin=C24-2
+Added Pin To Net: NetName=VBAT1 Pin=C25-2
+Added Pin To Net: NetName=VBAT1 Pin=C26-2
+Added Pin To Net: NetName=VBAT1 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=J1-N
+Added Pin To Net: NetName=GND Pin=J2-N
+Added Pin To Net: NetName=BIAS Pin=J2-P
+Added Pin To Net: NetName=VBAT1 Pin=J4-P
+Added Pin To Net: NetName=BIAS Pin=R13-2
+Added Pin To Net: NetName=SYNC_CHRGR Pin=R15-2
+Added Pin To Net: NetName=BIAS Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=VBAT1 Pin=R20-2
+Added Pin To Net: NetName=VBAT1 Pin=R23-2
+Added Pin To Net: NetName=BIAS Pin=TP1-TP1
+Added Pin To Net: NetName=VBAT1 Pin=TP2-TP1
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Change Net Name : Old Net Name=FB_TPS_Designator1 New Net Name=FB_TPS
+Change Net Name : Old Net Name=NetL4_Designator1_1 New Net Name=NetL4_1
+Change Net Name : Old Net Name=NetL4_Designator1_2 New Net Name=NetL4_2
+Change Net Name : Old Net Name=VBAT1 New Net Name=BIAS
+Change Net Name : Old Net Name=VINA_TPS_Designator1 New Net Name=VINA_TPS
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "INTVcc" already exists
+Add Net: Net with name "ISP" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Change Class Name : Old Net Name=Designator1 New Net Name=Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

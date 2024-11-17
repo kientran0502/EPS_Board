@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=3.3V Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=3.3V Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=3.3V Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Change Component Footprint: Designator=C39 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C40 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C41 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=3.3V Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=3.3V Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=3.3V Pin=C41-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-64
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "G_OR" already exists
+Add Net: Net with name "INTVcc" already exists
+Add Net: Net with name "ISP" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

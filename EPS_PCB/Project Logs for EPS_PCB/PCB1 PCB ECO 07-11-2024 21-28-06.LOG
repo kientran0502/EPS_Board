@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Added Pin To Net: NetName=Net*1_4 Pin=*1-4
+Added Pin To Net: NetName=Net*1_4 Pin=B3-5
+Added Net: Name=Net*1_4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
